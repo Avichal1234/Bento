@@ -114,10 +114,6 @@ const CONFIG = {
         name: 'GogoAnime',
         link: 'https://gogoanime.cm',
       },
-      {
-        name: 'Discord',
-        link: 'https://discord.com/channels/@me',
-      },
     ],
     secondList: [
       {
@@ -135,10 +131,6 @@ const CONFIG = {
       {
         name: 'Google Drive',
         link: 'https://drive.google.com/',
-      },
-      {
-        name: 'Visual Studio Code',
-        link: 'https://vscode.dev',
       },
     ],
   },
