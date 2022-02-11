@@ -114,6 +114,14 @@ const CONFIG = {
         name: 'GogoAnime',
         link: 'https://gogoanime.cm',
       },
+      {
+        name: 'Discord',
+        link: 'https://discord.com/channels/@me',
+      },
+      {
+        name: 'New Tab',
+        link: 'chrome://newtab',
+      },
     ],
     secondList: [
       {
@@ -131,6 +139,14 @@ const CONFIG = {
       {
         name: 'Google Drive',
         link: 'https://drive.google.com/',
+      },
+      {
+        name: 'Visual Studio Code',
+        link: 'https://vscode.dev',
+      },
+      {
+        name: 'Todost',
+        link: 'file:///C:/Users/cwc/Documents/GitHub/MyTodoList/Todost.html',
       },
     ],
   },
