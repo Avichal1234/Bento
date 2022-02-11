@@ -11,8 +11,8 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
-  imageBackground: false,
+  name: 'Avichal',
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -20,17 +20,17 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'So jao bro!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: 'd1d5ccc07cddda2a6d1341438fa5011c', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '28.527334',
+  defaultLongitude: '77.151543',
 
   // Autochange
   autoChangeTheme: true,
@@ -57,33 +57,33 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'GMail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Spotify',
+      icon: 'headphones',
+      link: 'https://open.spotify.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'WhatsApp',
+      icon: 'message-circle',
+      link: 'https://web.whatsapp.com/',
     },
     {
       id: '5',
       name: 'Reddit',
-      icon: 'glasses',
+      icon: 'meh',
       link: 'https://reddit.com',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
