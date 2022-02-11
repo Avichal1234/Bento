@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Avichal',
+  name: 'Avichal!',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
+  greetingMorning: 'Good morning',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'So jao bro!',
+  greetingNight: 'So jao ',
 
   // Weather
   weatherKey: 'd1d5ccc07cddda2a6d1341438fa5011c', // Write here your API Key
