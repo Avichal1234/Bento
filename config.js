@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Avichal',
-  imageBackground: true,
+  imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -33,13 +33,13 @@ const CONFIG = {
   defaultLongitude: '77.151543',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
   changeThemeByOS: false, 
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
-  changeThemeByHour: true,
+  changeThemeByHour: false,
   hourDarkThemeActive: '18:30',
   hourDarkThemeInactive: '07:00',
 
