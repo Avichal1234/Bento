@@ -92,45 +92,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'tv',
+  secondListIcon: 'pen-tool',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Amazon',
+        link: 'http://amazon.in/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'PrimeVideo',
+        link: 'http://primevideo.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'MyAnimeList',
+        link: 'https://myanimelist.net/animelist/Noob_Avichal',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'GogoAnime',
+        link: 'https://gogoanime.cm',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Microsoft Teams',
+        link: 'https://teams.microsoft.com/_#/school//?ctx=teamsGrid',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Notion',
+        link: 'https://www.notion.so/avichal/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Duolingo',
+        link: 'https://www.duolingo.com/learn',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Google Drive',
+        link: 'https://drive.google.com/',
       },
     ],
   },
